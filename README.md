@@ -13,9 +13,9 @@ Next clone this repo, start the React app, and visit the URL `http://localhost:3
 ## Tutorial Requirements:
 
 * [Visual Studio Code](https://code.visualstudio.com/) or [Brackets](http://brackets.io/) (or any code editor)
-* [brew](https://brew.sh/) 
+* [React.js](https://reactjs.org/) 
 
-Full tutorial URL: https://codeadam.ca/learning/nodejs-api.html
+Full tutorial URL: https://codeadam.ca/learning/react-mern.html
 
 <a href="https://codeadam.ca">
 <img src="https://codeadam.ca/images/code-block.png" width="100">
