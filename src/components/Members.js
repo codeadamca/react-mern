@@ -10,8 +10,10 @@ function Members(props) {
   );
 
   return (
-    <div className="TourDates">
-      {memberList}
+    <div className="Members">
+      <ul>
+        {memberList}
+      </ul>
     </div>
   );
   
