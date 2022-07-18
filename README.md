@@ -1,4 +1,4 @@
-# react-mern
+# A Basic Example of a Web Page using a MERN Stack
 
 A basic example of a MERN stack setup. This code includes a small React app that displays a list of members retrieved from an API nuilt using Node.js, Express, and MongoDB. The API coe is available in the [nodejs-api](https://github.com/codeadamca/nodejs-api) repo.
 
