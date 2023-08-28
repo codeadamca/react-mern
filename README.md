@@ -10,12 +10,15 @@ If you haven't already, start the Node.js members API. Visit tThe URL `http://lo
 
 Next clone this repo, start the React app, and visit the URL `http://localhost:3000/`. You should see a list of members from the Node.js API in a basic unordered list.
 
-## Tutorial Requirements:
+> Full tutorial URL:  
+> https://codeadam.ca/learning/react-mern.html
+
+*** 
+
+## Repo Resources
 
 * [Visual Studio Code](https://code.visualstudio.com/) or [Brackets](http://brackets.io/) (or any code editor)
 * [React.js](https://reactjs.org/) 
-
-Full tutorial URL: https://codeadam.ca/learning/react-mern.html
 
 <a href="https://codeadam.ca">
 <img src="https://codeadam.ca/images/code-block.png" width="100">
